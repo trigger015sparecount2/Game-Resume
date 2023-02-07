@@ -1,7 +1,0 @@
-使用可能なプログラム言語
-・C言語
-・C++
-・JavaScript
-
-使用可能なマシン
-・DirectX9が使用可能なWindowsPC
